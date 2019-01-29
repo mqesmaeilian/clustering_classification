@@ -1,4 +1,4 @@
-### Example 4 of classification with an public data set
+### Example 4 of classification with one of the sklearn random data generator 
 ### September 15, 2018
 import numpy as np
 import matplotlib.pyplot as plt
