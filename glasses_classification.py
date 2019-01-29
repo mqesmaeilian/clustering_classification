@@ -1,3 +1,6 @@
+### final script to get the results of learning and connecting the parts of code
+
+
 from sample_divider import sample_divider_member,get_samples_csv, xy_divider
 from Classifiers import classification_methods
 
