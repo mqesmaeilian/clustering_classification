@@ -1,3 +1,8 @@
+### Example 3 of classification with sklearn 
+### September 16, 2018
+
+
+
 from KMeans_Data import KMean_data_generator
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
