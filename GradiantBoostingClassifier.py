@@ -1,3 +1,8 @@
+### a simple script show how to change a methods parameter
+
+
+
+
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import gradient_boosting
@@ -8,4 +13,4 @@ parameters = {
     'citerion': ['friedman_mse', 'mse', 'mae']
 }
 
-
+# gradiant_boosting(sample, parameters)
