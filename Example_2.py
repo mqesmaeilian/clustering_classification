@@ -1,3 +1,7 @@
+### Another Example of Classification with 'make_moons data generator' 
+
+
+
 from sklearn.datasets import make_moons
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
