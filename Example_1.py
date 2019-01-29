@@ -1,4 +1,7 @@
-# this is another file 
+### Example 1 of classification with one of the sklearn random data generator (make_blobs)
+
+
+
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
@@ -24,7 +27,7 @@ fig = plt.figure()
 ax = Axes3D(fig)
 ax.scatter(X[:, 0], X[:, 1], X[:, 2], c=y)
 C = kmeans.cluster_centers_
-print (">>>>>",C,"<<<<<")
+#print (">>>>>",C,"<<<<<")
 
 
 #
