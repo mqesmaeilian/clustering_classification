@@ -1,4 +1,5 @@
-# this is a file
+### Example 4 of classification with an public data set
+### September 15, 2018
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
