@@ -1,3 +1,3 @@
-# this is the classifier
+# This project has been started to learning ML with sikit learn 
 
-this is the first commit on this project without any documents
+
