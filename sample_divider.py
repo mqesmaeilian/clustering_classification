@@ -1,3 +1,6 @@
+### dividing data to 2 group's of 'Test_data' and 'Train_data' (randomly to reduce error function)
+
+
 import numpy as np
 import pandas as pd
 
