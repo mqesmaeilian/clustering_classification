@@ -1,3 +1,6 @@
+### This is the SK.Learn most important classifiers and methods that we can change the elements of each methods on it.
+
+
 from sample_divider import sample_divider_member, get_samples_csv
 from sklearn.ensemble.weight_boosting import AdaBoostClassifier
 import pandas as pd
